@@ -1,4 +1,4 @@
-# multiselect
+# multiselect dropdown in vue.js
 
 ## Project setup
 ```
